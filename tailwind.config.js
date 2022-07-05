@@ -36,6 +36,7 @@ module.exports = {
 			custom32: "32px",
 		},
 		height: {
+			48: "48px",
 			240: "240px",
 			450: "450px",
 			611: "611px",
